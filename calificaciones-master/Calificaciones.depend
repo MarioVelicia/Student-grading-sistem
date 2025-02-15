@@ -1,0 +1,426 @@
+# depslib dependency file v1.0
+1663233449 source:z:\programacion\calificaciones\interfazgrafica.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"interfazGrafica.h"
+
+1663233463 z:\programacion\calificaciones\interfazgrafica.h
+	<windows.h>
+
+1663839233 source:z:\programacion\calificaciones\main.c
+	<stdio.h>
+	"interfazGrafica.h"
+	<stdlib.h>
+
+1663258255 source:c:\users\34660\calificaciones\interfazgrafica.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"interfazGrafica.h"
+
+1663258255 c:\users\34660\calificaciones\interfazgrafica.h
+	<windows.h>
+
+1663864936 source:c:\users\34660\calificaciones\main.c
+	<stdio.h>
+	"interfazGrafica.h"
+	<stdlib.h>
+
+1666819944 source:c:\users\34660\calificaciones\ad\alumnoad.c
+	<stdio.h>
+	"../AD/alumnoAD.h"
+	"../IU/alumnoIU.h"
+	"../IU/interfazGrafica.h"
+	"../IU/interfazUsuario.h"
+	<windows.h>
+	<locale.h>
+
+1666819042 c:\users\34660\calificaciones\ad\alumnoad.h
+	<windows.h>
+	<locale.h>
+
+1666818705 c:\users\34660\calificaciones\iu\alumnoiu.h
+	<windows.h>
+	<locale.h>
+
+1664479651 c:\users\34660\calificaciones\iu\interfazgrafica.h
+	<windows.h>
+
+1666818803 source:c:\users\34660\calificaciones\iu\alumnoiu.c
+	<stdio.h>
+	"../IU/alumnoIU.h"
+	"../IU/interfazGrafica.h"
+	"../SYS/alumnosSYS.h"
+	<stdbool.h>
+	"../AD/alumnoAD.h"
+	"../IU/interfazUsuario.h"
+	<windows.h>
+	<locale.h>
+
+1666820225 c:\users\34660\calificaciones\sys\alumnossys.h
+	<stdbool.h>
+
+1664479651 source:c:\users\34660\calificaciones\iu\interfazgrafica.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"interfazGrafica.h"
+
+1666438596 source:c:\users\34660\calificaciones\iu\interfazusuario.c
+	<stdlib.h>
+	<stdio.h>
+	"../IU/interfazGrafica.h"
+	<windows.h>
+	<locale.h>
+
+1666214425 source:c:\users\34660\calificaciones\maincalificaciones.c
+	<stdio.h>
+	"IU/interfazGrafica.h"
+	<stdlib.h>
+	"IU/interfazUsuario.h"
+	"IU/alumnoIU.h"
+	"AD/alumnoAD.h"
+	"SYS/alumnosSYS.h"
+	<windows.h>
+	<locale.h>
+
+1665692164 c:\users\34660\calificaciones\iu\interfazusuario.h
+
+1666820272 source:c:\users\34660\calificaciones\sys\alumnossys.c
+	<stdio.h>
+	"../SYS/alumnosSYS.h"
+	"../AD/alumnoAD.h"
+	<stdbool.h>
+
+1671702727 source:z:\programacion\calificaciones\iu\alumnoiu.c
+	<stdio.h>
+	"../IU/alumnoIU.h"
+	"../IU/interfazGrafica.h"
+	"../SYS/alumnosSYS.h"
+	<stdbool.h>
+	"../AD/alumnoAD.h"
+	"../IU/interfazUsuario.h"
+	<windows.h>
+	<locale.h>
+	<string.h>
+	"../Entidades/alumnos.h"
+	<stdlib.h>
+
+1671698294 z:\programacion\calificaciones\iu\alumnoiu.h
+	<windows.h>
+	<locale.h>
+	"../Entidades/alumnos.h"
+
+1663229863 z:\programacion\calificaciones\iu\interfazgrafica.h
+	<windows.h>
+
+1671092651 z:\programacion\calificaciones\sys\alumnossys.h
+	<stdbool.h>
+	"../Entidades/alumnos.h"
+
+1663229849 source:z:\programacion\calificaciones\iu\interfazgrafica.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"interfazGrafica.h"
+
+1671088863 source:z:\programacion\calificaciones\iu\interfazusuario.c
+	<stdlib.h>
+	<stdio.h>
+	"../IU/interfazGrafica.h"
+	<windows.h>
+	<locale.h>
+	"../SYS/alumnosSYS.h"
+	"../IU/alumnoIU.h"
+	"../IU/interfazUsuario.h"
+
+1668676731 source:z:\programacion\calificaciones\maincalificaciones.c
+	<stdio.h>
+	"IU/interfazGrafica.h"
+	<stdlib.h>
+	"IU/interfazUsuario.h"
+	"IU/alumnoIU.h"
+	"AD/alumnoAD.h"
+	"SYS/alumnosSYS.h"
+	<windows.h>
+	<locale.h>
+
+1671088863 z:\programacion\calificaciones\iu\interfazusuario.h
+
+1671092651 z:\programacion\calificaciones\ad\alumnoad.h
+	<windows.h>
+	<locale.h>
+	"../Entidades/alumnos.h"
+
+1671693392 source:z:\programacion\calificaciones\sys\alumnossys.c
+	<stdio.h>
+	"../SYS/alumnosSYS.h"
+	"../AD/alumnoAD.h"
+	<stdbool.h>
+	"../Entidades/alumnos.h"
+	"../IU/alumnoIU.h"
+	"../IU/interfazUsuario.h"
+	"../IU/interfazGrafica.h"
+
+1671092651 source:z:\programacion\calificaciones\ad\alumnoad.c
+	<stdio.h>
+	"../AD/alumnoAD.h"
+	"../IU/alumnoIU.h"
+	"../IU/interfazGrafica.h"
+	"../IU/interfazUsuario.h"
+	<windows.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"../Entidades/alumnos.h"
+
+1667334310 source:c:\users\34660\programacion\calificaciones\ad\alumnoad.c
+	<stdio.h>
+	"../AD/alumnoAD.h"
+	"../IU/alumnoIU.h"
+	"../IU/interfazGrafica.h"
+	"../IU/interfazUsuario.h"
+	<windows.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+
+1667044788 c:\users\34660\programacion\calificaciones\ad\alumnoad.h
+	<windows.h>
+	<locale.h>
+
+1667044788 c:\users\34660\programacion\calificaciones\iu\alumnoiu.h
+	<windows.h>
+	<locale.h>
+
+1667044788 c:\users\34660\programacion\calificaciones\iu\interfazgrafica.h
+	<windows.h>
+
+1667044788 c:\users\34660\programacion\calificaciones\iu\interfazusuario.h
+
+1667334310 source:c:\users\34660\programacion\calificaciones\iu\alumnoiu.c
+	<stdio.h>
+	"../IU/alumnoIU.h"
+	"../IU/interfazGrafica.h"
+	"../SYS/alumnosSYS.h"
+	<stdbool.h>
+	"../AD/alumnoAD.h"
+	"../IU/interfazUsuario.h"
+	<windows.h>
+	<locale.h>
+
+1667044788 c:\users\34660\programacion\calificaciones\sys\alumnossys.h
+	<stdbool.h>
+
+1667044788 source:c:\users\34660\programacion\calificaciones\iu\interfazgrafica.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"interfazGrafica.h"
+
+1667321894 source:c:\users\34660\programacion\calificaciones\iu\interfazusuario.c
+	<stdlib.h>
+	<stdio.h>
+	"../IU/interfazGrafica.h"
+	<windows.h>
+	<locale.h>
+
+1667044788 source:c:\users\34660\programacion\calificaciones\maincalificaciones.c
+	<stdio.h>
+	"IU/interfazGrafica.h"
+	<stdlib.h>
+	"IU/interfazUsuario.h"
+	"IU/alumnoIU.h"
+	"AD/alumnoAD.h"
+	"SYS/alumnosSYS.h"
+	<windows.h>
+	<locale.h>
+
+1667334310 source:c:\users\34660\programacion\calificaciones\sys\alumnossys.c
+	<stdio.h>
+	"../SYS/alumnosSYS.h"
+	"../AD/alumnoAD.h"
+	<stdbool.h>
+
+1668185398 source:c:\users\34660\programacion 2\calificaciones\iu\interfazgrafica.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"interfazGrafica.h"
+
+1668185398 c:\users\34660\programacion 2\calificaciones\iu\interfazgrafica.h
+	<windows.h>
+
+1669052713 source:c:\users\34660\programacion 2\calificaciones\iu\interfazusuario.c
+	<stdlib.h>
+	<stdio.h>
+	"../IU/interfazGrafica.h"
+	<windows.h>
+	<locale.h>
+	"../SYS/alumnosSYS.h"
+	"../IU/alumnoIU.h"
+	"../IU/interfazUsuario.h"
+
+1668800648 source:c:\users\34660\programacion 2\calificaciones\maincalificaciones.c
+	<stdio.h>
+	"IU/interfazGrafica.h"
+	<stdlib.h>
+	"IU/interfazUsuario.h"
+	"IU/alumnoIU.h"
+	"AD/alumnoAD.h"
+	"SYS/alumnosSYS.h"
+	<windows.h>
+	<locale.h>
+
+1668800648 c:\users\34660\programacion 2\calificaciones\iu\interfazusuario.h
+
+1669030202 c:\users\34660\programacion 2\calificaciones\iu\alumnoiu.h
+	<windows.h>
+	<locale.h>
+	"../Entidades/alumnos.h"
+
+1668806701 c:\users\34660\programacion 2\calificaciones\ad\alumnoad.h
+	<windows.h>
+	<locale.h>
+	"../Entidades/alumnos.h"
+
+1669053650 c:\users\34660\programacion 2\calificaciones\sys\alumnossys.h
+	<stdbool.h>
+	"../Entidades/alumnos.h"
+
+1669027184 c:\users\34660\programacion 2\calificaciones\entidades\alumnos.h
+
+1669053650 source:c:\users\34660\programacion 2\calificaciones\ad\alumnoad.c
+	<stdio.h>
+	"../AD/alumnoAD.h"
+	"../IU/alumnoIU.h"
+	"../IU/interfazGrafica.h"
+	"../IU/interfazUsuario.h"
+	<windows.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"../Entidades/alumnos.h"
+
+1669052486 source:c:\users\34660\programacion 2\calificaciones\iu\alumnoiu.c
+	<stdio.h>
+	"../IU/alumnoIU.h"
+	"../IU/interfazGrafica.h"
+	"../SYS/alumnosSYS.h"
+	<stdbool.h>
+	"../AD/alumnoAD.h"
+	"../IU/interfazUsuario.h"
+	<windows.h>
+	<locale.h>
+	<string.h>
+	"../Entidades/alumnos.h"
+	<stdlib.h>
+
+1669052977 source:c:\users\34660\programacion 2\calificaciones\sys\alumnossys.c
+	<stdio.h>
+	"../SYS/alumnosSYS.h"
+	"../AD/alumnoAD.h"
+	<stdbool.h>
+	"../Entidades/alumnos.h"
+
+1669885754 z:\programacion\calificaciones\entidades\alumnos.h
+
+1671448149 source:c:\users\34660\programacion 3\calificaciones\ad\alumnoad.c
+	<stdio.h>
+	"../AD/alumnoAD.h"
+	"../IU/alumnoIU.h"
+	"../IU/interfazGrafica.h"
+	"../IU/interfazUsuario.h"
+	<windows.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"../Entidades/alumnos.h"
+
+1671448149 c:\users\34660\programacion 3\calificaciones\ad\alumnoad.h
+	<windows.h>
+	<locale.h>
+	"../Entidades/alumnos.h"
+
+1670013047 c:\users\34660\programacion 3\calificaciones\entidades\alumnos.h
+
+1670068954 c:\users\34660\programacion 3\calificaciones\iu\alumnoiu.h
+	<windows.h>
+	<locale.h>
+	"../Entidades/alumnos.h"
+
+1669633722 c:\users\34660\programacion 3\calificaciones\iu\interfazgrafica.h
+	<windows.h>
+
+1670069879 c:\users\34660\programacion 3\calificaciones\iu\interfazusuario.h
+
+1671449289 source:c:\users\34660\programacion 3\calificaciones\iu\alumnoiu.c
+	<stdio.h>
+	"../IU/alumnoIU.h"
+	"../IU/interfazGrafica.h"
+	"../SYS/alumnosSYS.h"
+	<stdbool.h>
+	"../AD/alumnoAD.h"
+	"../IU/interfazUsuario.h"
+	<windows.h>
+	<locale.h>
+	<string.h>
+	"../Entidades/alumnos.h"
+	<stdlib.h>
+
+1671448149 c:\users\34660\programacion 3\calificaciones\sys\alumnossys.h
+	<stdbool.h>
+	"../Entidades/alumnos.h"
+
+1669633722 source:c:\users\34660\programacion 3\calificaciones\iu\interfazgrafica.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"interfazGrafica.h"
+
+1670072043 source:c:\users\34660\programacion 3\calificaciones\iu\interfazusuario.c
+	<stdlib.h>
+	<stdio.h>
+	"../IU/interfazGrafica.h"
+	<windows.h>
+	<locale.h>
+	"../SYS/alumnosSYS.h"
+	"../IU/alumnoIU.h"
+	"../IU/interfazUsuario.h"
+
+1669633722 source:c:\users\34660\programacion 3\calificaciones\maincalificaciones.c
+	<stdio.h>
+	"IU/interfazGrafica.h"
+	<stdlib.h>
+	"IU/interfazUsuario.h"
+	"IU/alumnoIU.h"
+	"AD/alumnoAD.h"
+	"SYS/alumnosSYS.h"
+	<windows.h>
+	<locale.h>
+
+1671449495 source:c:\users\34660\programacion 3\calificaciones\sys\alumnossys.c
+	<stdio.h>
+	"../SYS/alumnosSYS.h"
+	"../AD/alumnoAD.h"
+	<stdbool.h>
+	"../Entidades/alumnos.h"
+	"../IU/alumnoIU.h"
+	"../IU/interfazUsuario.h"
+	"../IU/interfazGrafica.h"
+
